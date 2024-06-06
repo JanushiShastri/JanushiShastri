@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Personal Website**
 
-- 🌱 I’m currently learning **Vue, AWS**
+- 🌱 I’m currently learning **Nuxt, kafka**
 
-- 💬 Ask me about **satellite, python**
+- 💬 Ask me about **python, AWS, Vue.js**
 
 - 📫 How to reach me **shastrijanushi@gmail.com**
 
