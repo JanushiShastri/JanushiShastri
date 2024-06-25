@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janushishastri" alt="janushishastri" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently learning **Nuxt, kafka**
+- 🌱 I’m currently learning **Docker, kafka**
 
-- 💬 Ask me about **python, AWS, Vue.js**
+- 💬 Ask me about **python, AWS, Vue.js, React, Java, JavaScript**
 
 - 📫 How to reach me **shastrijanushi@gmail.com**
 
